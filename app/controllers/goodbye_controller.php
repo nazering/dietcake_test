@@ -5,4 +5,10 @@ class GoodbyeController extends AppController
     {
 	echo "goodbye,world";
     }
+    
+    public function hogehoge()
+    {
+	echo "hogehoge";
+    }
+
 }
